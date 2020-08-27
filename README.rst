@@ -10,7 +10,7 @@ Install
 Electron
 ~~~~~~~~
 
-On buntu these packages suffice::
+On Ubuntu these packages suffice::
 
   sudo apt-get install npm nodejs nodejs-legacy
 
